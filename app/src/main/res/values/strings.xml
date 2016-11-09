@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">События культуры</string>
+    <string name="BASE_URL">https://api.cultserv.ru</string>
+</resources>
